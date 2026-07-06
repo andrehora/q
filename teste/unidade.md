@@ -44,7 +44,7 @@ O método de Teardown (@After) é executado quantas vezes durante a execução d
 Quando é mais apropriado usar @BeforeAll em vez de @Before (setUp):
 
 - Quando se deseja recriar o estado do zero antes de cada teste individual
-- Quando a inicialização é custosa (ex: conexão com recursos) e pode ser compartilhada entre todos os testes da classe x
+- Quando a inicialização é custosa (eg, conexão com recursos) e pode ser compartilhada entre todos os testes da classe x
 - Quando se quer garantir que cada teste comece com um estado totalmente isolado dos demais
 
 Qual é a ideia central por trás de escrever um teste para reproduzir um bug reportado por um usuário:
