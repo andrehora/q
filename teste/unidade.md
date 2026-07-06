@@ -11,7 +11,7 @@ Quais são as principais características dos testes de unidade:
 - Manuais
 - Aleatórios
 - Pequenos x
-- Lentos
+- Rodam rapidamente
 
 Qual é a principal razão pela qual empresas adotam os testes de unidade:
 
