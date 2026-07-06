@@ -34,13 +34,6 @@ O método de Setup (@Before) é executado quantas vezes durante a execução de 
 - Uma vez antes de cada método de teste da classe x
 - Uma vez ao final da execução de todos os testes
 
-O método de Teardown (@After) é executado quantas vezes durante a execução de uma classe de teste:
-
-- Uma única vez, após todos os testes da classe
-- Uma vez depois de cada método de teste da classe x
-- Uma vez antes de todos os testes começarem
-- Somente quando chamado manualmente dentro do teste
-
 Quando é mais apropriado usar @BeforeAll em vez de @Before (setUp):
 
 - Quando se deseja recriar o estado do zero antes de cada teste individual
@@ -67,3 +60,9 @@ Qual é a semelhança entre os padrões AAA, Given-When-Then e Four-Phase:
 - Todos eliminam a necessidade de fixtures
 - Todos são específicos para testes de interface gráfica
 - Todos requerem bancos de dados reais para funcionar
+
+Assinale verdadeiro (T) ou falso (F):
+- Testes de unidade verificam automaticamente pequenas unidades do código, como um método ou uma classe. t
+- Testes de unidade formam o topo da pirâmide de testes, sendo os menos comuns em um sistema de software. f
+- É uma boa prática implementar todos os testes de unidade somente depois que o sistema estiver completamente pronto. f
+- Fixture é o estado do sistema necessário para o teste (dados, objetos, etc.), garantindo que o teste seja repetível. t
