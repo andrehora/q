@@ -12,6 +12,19 @@ Segundo Michael Feathers, no livro "Working Effectively with Legacy Code", como 
 - Código legado é código que nunca foi documentado
 - Código legado é simplesmente código sem testes x
 
+Qual é um benefício direto de se ter testes em um projeto de software:
+
+- Eliminar a necessidade de revisão de código
+- Detectar problemas no código mais cedo, antes que cheguem à produção x
+- Tornar o sistema mais rápido em produção
+- Substituir completamente a documentação do sistema
+
+Testes permitem:
+- Criar código sem bugs
+- Detectar de erros mais cedo no ciclo de desenvolvimento x
+- Dar suporte à capacidade de mudança x
+- Melhorar o projeto do sistema x
+
 Quais os três benefícios dos frameworks de teste:
 
 - Compilação de código, versionamento e deploy
@@ -46,3 +59,9 @@ Por que os testes e2e são considerados mais frágeis do que os testes de unidad
 - Porque são executados com menor frequência que os demais
 - Porque podem ser mais facilmente impactados por alterações na interface do usuário (UI) x
 - Porque não podem ser automatizados
+
+Assinale verdadeiro (T) ou falso (F):
+- Testes manuais são lentos, caros e suscetíveis a falhas. t
+- A proporção de testes recomendada pela Google é: 80%/15%/5%. t
+- Testes de integração não podem envolver APIs externas. f
+- Testes e2e são executados com menor frequência que os demais. f
