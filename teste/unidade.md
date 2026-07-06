@@ -13,7 +13,7 @@ Quais são as principais características dos testes de unidade:
 - Pequenos x
 - Lentos
 
-Qual é a principal razão pela qual empresas tornam os testes de unidade obrigatórios:
+Qual é a principal razão pela qual empresas adotam os testes de unidade:
 
 - Para substituir a necessidade de revisão de código
 - Para garantir que apenas gerentes aprovem mudanças
