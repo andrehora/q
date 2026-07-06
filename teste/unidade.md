@@ -9,9 +9,8 @@ Quais são as principais características dos testes de unidade:
 
 - Estáveis x
 - Manuais
-- Aleatórios
+- Lentos
 - Pequenos x
-- Rodam rapidamente
 
 Qual é a principal razão pela qual empresas adotam os testes de unidade:
 
