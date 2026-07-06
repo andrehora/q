@@ -60,7 +60,7 @@ Por que os testes e2e são considerados mais frágeis do que os testes de unidad
 - Porque podem ser mais facilmente impactados por alterações na interface do usuário (UI) x
 - Porque não podem ser automatizados
 
-Assinale verdadeiro (T) ou falso (F):
+Assinale verdadeiro (true) ou falso (false):
 - Testes manuais são lentos, caros e suscetíveis a falhas. t
 - A proporção de testes recomendada pela Google é: 80%/15%/5%. t
 - Testes de integração não podem envolver APIs externas. f
