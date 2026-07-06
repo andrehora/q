@@ -28,8 +28,8 @@ De acordo com a diretriz apresentada pela Google, qual é a proporção recomend
 
 Qual das alternativas abaixo NÃO é uma característica típica dos testes de unidade:
 
-- São rápidos de executar
-- Verificam pequenas unidades do código, como um método ou uma classe
+- São lentos de executar x
+- Verificam pequenas unidades do código
 - Envolvem comunicação direta com banco de dados e APIs externas x
 - São simples de escrever e estáveis
 
