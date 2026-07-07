@@ -60,8 +60,8 @@ Qual é a semelhança entre os padrões AAA, Given-When-Then e Four-Phase:
 - Todos são específicos para testes de interface gráfica
 - Todos requerem bancos de dados reais para funcionar
 
-Assinale verdadeiro (T) ou falso (F):
-- Testes de unidade verificam automaticamente pequenas unidades do código, como um método ou uma classe. t
-- Testes de unidade formam o topo da pirâmide de testes, sendo os menos comuns em um sistema de software. f
+Assinale verdadeiro ou falso:
+- Testes de unidade verificam automaticamente pequenas unidades do código. t
+- Testes de unidade formam o topo da pirâmide de testes. f
 - É uma boa prática implementar todos os testes de unidade somente depois que o sistema estiver completamente pronto. f
-- Fixture é o estado do sistema necessário para o teste (dados, objetos, etc.), garantindo que o teste seja repetível. t
+- Fixture é o estado do sistema necessário para o teste, garantindo que o teste seja repetível. t
