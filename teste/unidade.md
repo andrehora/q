@@ -53,8 +53,8 @@ Qual é a semelhança entre os padrões AAA, Given-When-Then e Four-Phase:
 - Todos eliminam a necessidade de fixtures
 - Todos são específicos para testes de interface gráfica
 
-Assinale verdadeiro ou falso:
-- Testes de unidade verificam automaticamente pequenas unidades do código. t
-- Testes de unidade formam o topo da pirâmide de testes. f
-- É uma boa prática implementar todos os testes de unidade somente depois que o sistema estiver completamente pronto. f
-- Fixture é o estado do sistema necessário para o teste, garantindo que o teste seja repetível. t
+Assinale as alternativas verdadeiras:
+- Testes de unidade verificam automaticamente pequenas unidades do código. x
+- Testes de unidade formam o topo da pirâmide de testes.
+- É uma boa prática implementar todos os testes de unidade somente depois que o sistema estiver completamente pronto.
+- Fixture é o estado do sistema necessário para o teste, garantindo que o teste seja repetível. x
