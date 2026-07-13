@@ -4,12 +4,12 @@ Por que os testes de unidade são considerados a "base da pirâmide de testes":
 - Porque testam o sistema inteiro de ponta a ponta
 - Porque são numerosos, rápidos e simples de escrever x
 
-Quais são as principais características dos testes de unidade:
+Características dos testes de unidade:
 
-- Estáveis x
+- Pequenos x
 - Manuais
 - Lentos
-- Pequenos x
+- Estáveis x
 
 Qual é a principal razão pela qual empresas adotam os testes de unidade:
 
@@ -53,8 +53,7 @@ Qual é a semelhança entre os padrões AAA, Given-When-Then e Four-Phase:
 - Todos eliminam a necessidade de fixtures
 - Todos são específicos para testes de interface gráfica
 
-Assinale as alternativas verdadeiras:
-- Testes de unidade verificam automaticamente pequenas unidades do código. x
-- Testes de unidade formam o topo da pirâmide de testes.
+Assinale a alternativa correta:
+- Testes de unidade formam a base da pirâmide de testes.
 - É uma boa prática implementar todos os testes de unidade somente depois que o sistema estiver completamente pronto.
 - Fixture é o estado do sistema necessário para o teste, garantindo que o teste seja repetível. x
