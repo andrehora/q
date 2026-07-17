@@ -4,7 +4,7 @@ Quais são as principais desvantagens dos testes manuais:
 - São baratos, mas difíceis de automatizar
 - São lentos, caros e suscetíveis a falhas x
 
-Segundo Michael Feathers, no livro "Working Effectively with Legacy Code", como é definido o "legacy code":
+Segundo o livro "Working Effectively with Legacy Code", como é definido "legacy code":
 
 - Código legado é código escrito em linguagens antigas
 - Código legado é código que nunca foi documentado
